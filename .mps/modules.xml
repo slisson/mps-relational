@@ -2,6 +2,7 @@
 <project version="4">
   <component name="MPSProject">
     <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/de.q60.mps.relational.path/de.q60.mps.relational.path.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/de.q60.mps.relational.sandboxlang/de.q60.mps.relational.sandboxlang.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/de.q60.mps.relational/de.q60.mps.relational.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/de.q60.mps.relational.runtime/de.q60.mps.relational.runtime.msd" folder="" />

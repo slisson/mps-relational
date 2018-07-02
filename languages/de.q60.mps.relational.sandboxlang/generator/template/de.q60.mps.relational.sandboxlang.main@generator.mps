@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model ref="r:bba1df19-d852-4234-9937-8b78bb04926c(main@generator)">
+<model ref="r:bba1df19-d852-4234-9937-8b78bb04926c(de.q60.mps.relational.sandboxlang.main@generator)">
   <persistence version="9" />
   <languages>
     <devkit ref="a2eb3a43-fcc2-4200-80dc-c60110c4862d(jetbrains.mps.devkit.templates)" />

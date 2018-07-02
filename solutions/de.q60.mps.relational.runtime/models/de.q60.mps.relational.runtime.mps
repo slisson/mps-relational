@@ -230,6 +230,12 @@
     <node concept="3clFb_" id="3hU62LB94pz" role="jymVt">
       <property role="1EzhhJ" value="true" />
       <property role="TrG5h" value="isApplicable" />
+      <node concept="37vLTG" id="7JdpLHXSHpQ" role="3clF46">
+        <property role="TrG5h" value="_context" />
+        <node concept="3uibUv" id="7JdpLHXSHpR" role="1tU5fm">
+          <ref role="3uigEE" node="3hU62LBeHif" resolve="ISolverContext" />
+        </node>
+      </node>
       <node concept="37vLTG" id="3hU62LB96IV" role="3clF46">
         <property role="TrG5h" value="parameters" />
         <node concept="3uibUv" id="3hU62LB96Js" role="1tU5fm">
@@ -1023,6 +1029,7 @@
                 </node>
                 <node concept="liA8E" id="3hU62LBh8QG" role="2OqNvi">
                   <ref role="37wK5l" node="3hU62LB94pz" resolve="isApplicable" />
+                  <node concept="Xjq3P" id="7JdpLHXURcK" role="37wK5m" />
                   <node concept="37vLTw" id="3hU62LBh9f0" role="37wK5m">
                     <ref role="3cqZAo" node="3hU62LBeYpD" resolve="parameters" />
                   </node>
